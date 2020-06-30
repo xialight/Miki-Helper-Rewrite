@@ -1,0 +1,9 @@
+{
+	"log_channel": "Channel ID for logging messages (deleted and edited messages)",
+	"modlog_channel": "Channel ID to keep track of mutes an bans", 
+	"server_id": "Server ID",
+	"mute_role": "Role ID of the muted role",
+	"mute_channel": "Channel ID for the muted",
+	"raid_channel": "Channel ID that keeps track of newly created accounts",
+	"user_channel": "Channel ID that keeps track of who left the server"
+}
